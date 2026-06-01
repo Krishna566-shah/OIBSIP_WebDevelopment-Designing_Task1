@@ -25,10 +25,6 @@ body{
   background:linear-gradient(to bottom,#F8F9FA,#E0F7FA);
 }
 
-/* =========================
-   NAVBAR
-========================= */
-
 .navbar{
   width:100%;
   background:var(--sidebar-bg);
@@ -68,10 +64,6 @@ body{
   color:black;
 }
 
-/* =========================
-   BANNER
-========================= */
-
 .banner-container{
   padding:30px;
 }
@@ -81,10 +73,6 @@ body{
   border-radius:20px;
   object-fit:cover;
 }
-
-/* =========================
-   HEADER
-========================= */
 
 header{
   margin:20px 40px;
@@ -110,10 +98,6 @@ header h1{
 .green-text{
   color:#00897B;
 }
-
-/* =========================
-   SECTIONS
-========================= */
 
 .section-container{
   padding:40px;
@@ -141,10 +125,6 @@ mark{
   border-radius:5px;
 }
 
-/* =========================
-   BUTTON
-========================= */
-
 .btn-container{
   display:flex;
   justify-content:center;
@@ -166,9 +146,6 @@ mark{
   background:#b45309;
 }
 
-/* =========================
-   FEATURES
-========================= */
 
 .features-grid{
   display:grid;
@@ -199,9 +176,6 @@ mark{
   line-height:1.6;
 }
 
-/* =========================
-   PROCESS
-========================= */
 
 .process-section{
   text-align:center;
@@ -215,9 +189,6 @@ mark{
   margin-top:20px;
 }
 
-/* =========================
-   PRODUCTS
-========================= */
 
 .container{
   display:grid;
@@ -286,10 +257,6 @@ mark{
   background:#b45309;
 }
 
-/* =========================
-   FOOTER
-========================= */
-
 footer{
   background:linear-gradient(
     to right,
@@ -315,10 +282,6 @@ footer a{
 footer a:hover{
   color:white;
 }
-
-/* =========================
-   RESPONSIVE
-========================= */
 
 @media(max-width:992px){
 
